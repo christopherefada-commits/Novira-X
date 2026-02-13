@@ -1,0 +1,5 @@
+{
+  "name": "NoviraX",
+  "description": "A multi-tenant AI automation platform for WhatsApp and Telegram, enabling conversation intelligence, agent management, and analytics.",
+  "requestFramePermissions": []
+}
